@@ -37,4 +37,4 @@ def runEjemplo3():
         print(f"Encontrado: {codigo}, posición: {posicion}")
 
 if __name__ == "__main__":
-    main()
+    main() 
